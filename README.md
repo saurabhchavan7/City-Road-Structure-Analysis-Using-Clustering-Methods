@@ -14,7 +14,7 @@
 
 ## Overview <a name="overview"></a>
 
-In this project, I have analyzed the road structure of different cities using clustering techniques. The data was taken from the paper **"Urban Spatial Order: Street Network Orientation, Configuration, and Entropy"** by Geoff Boeing, which examines street network patterns across 100 global cities. The primary goal was to understand how factors like entropy, street length contribute to road quality. Further, I have also taken another feature, **population density**, and then analyzed to see if there is any similarity between the city's road structure and population density.
+In this project, I have analyzed the road structure of different cities using clustering techniques. The data was taken from the paper **"Urban Spatial Order: Street Network Orientation, Configuration, and Entropy"** by Geoff Boeing, which examines street network patterns across 100 global cities. The primary goal was to understand how factors like entropy, street length contribute to road quality. Further, I have also taken another feature, **population density**, and undertook preprocessing steps to ensure its compatibility with the road structure data. This included extraction, merging, handling missing values, and scaling and then analyzed to see if there is any similarity between the city's road structure and population density.
 
 ## Data Loading <a name="data-loading"></a>
 
